@@ -138,7 +138,7 @@ const Contact: React.FC<ContactProps> = (props) => {
                 <br />
                 <p>
                     <b>Email: </b>
-                    <a href="mailto:fustrumstudio@gmail.com">
+                    <a href="mailto:fustrumstudios@gmail.com">
                         fustrumstudios@gmail.com
                     </a>
                 </p>
