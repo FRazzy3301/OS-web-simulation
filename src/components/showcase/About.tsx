@@ -16,8 +16,7 @@ const About: React.FC<AboutProps> = (props) => {
             <br />
             <div className="text-block">
                 <p>
-                    I'm a 4th year student at kenyatta university. I have extensive 
-                    experience in web development and programming. I love building
+                    I have extensive experience in web development and programming. I love building
                     experiences that delight users and solve real world problems.
                 </p>
                 <br />
